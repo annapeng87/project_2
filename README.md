@@ -1,4 +1,4 @@
-# LSTM Pokemon Cardset Price Predictor
+# LSTM RNN Pokemon Cardset Price Predictor
 
 ![Pokemon Price Predictor](Pokemon.jpg)
 
