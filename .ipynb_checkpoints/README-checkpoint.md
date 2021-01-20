@@ -40,9 +40,9 @@ Finally, use the testing data to evaluate each model and compare the performance
 
 Sample plots for Real vs Predicted for cardsets
 
-![Pokemon Price Predictor](Images/Cardset_Model_Base_Set_1st_Ed._Holos.png) 
+![Pokemon Price Predictor](Instructions/Images/Cardset_Model_Base_Set_1st_Ed._Holos.png) 
 
-![Pokemon Price Predictor](Images/Cardset_Model_EX_Set_Gold_Star_Holos.png) 
+![Pokemon Price Predictor](Instructions/Images/Cardset_Model_EX_Set_Gold_Star_Holos.png) 
 
 
 > Which cardset is a better investment?
