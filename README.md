@@ -1,6 +1,6 @@
 # LSTM RNN Pokemon Cardset Price Predictor
 
-![Pokemon Price Predictor](Images/Pokemon.jpg)
+![Pokemon Price Predictor](Pokemon.jpg)
 
 We observed the closing prices for pokemon cardset has a dramatic rise over the years. We will use deep learning and NLP sentiment analysis to figure out the reasons of the rise and also predict the future prices for pokemon cardset.
 
