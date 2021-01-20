@@ -1,6 +1,6 @@
 # LSTM RNN Pokemon Cardset Price Predictor
 
-![Pokemon Price Predictor](Pokemon.jpg)
+![Pokemon Price Predictor](Images/Pokemon.jpg)
 
 We observed the closing prices for pokemon cardset has a dramatic rise over the years. We will use deep learning and NLP sentiment analysis to figure out the reasons of the rise and also predict the future prices for pokemon cardset.
 
@@ -38,11 +38,21 @@ Use the same parameters and training steps for each model. This is necessary to 
 
 Finally, use the testing data to evaluate each model and compare the performance.
 
-Use the above to answer the following:
+Sample plots for Real vs Predicted for cardsets
+
+![Pokemon Price Predictor](Images/Cardset_Model_Base_Set_1st_Ed._Holos.png) 
+
+![Pokemon Price Predictor](Images/Cardset_Model_EX_Set_Gold_Star_Holos.png) 
+
 
 > Which cardset is a better investment?
+    All the cardsets show the same behavior but the biggest jump was seen due to stimulus checks and data showing people spending stimulusmoney to 
+    buy pokemon card sets
+    The older sets have shown the biggest jumps since they are from the past compared to the recent card sets 
 >
 > Which window size works best for the model?
+    1 year window size did not give good prediction results
+    We had to go to a 4 year window size to get almost real predicted values 
 
 - - -
 
